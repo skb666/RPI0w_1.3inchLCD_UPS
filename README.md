@@ -1,4 +1,4 @@
-# RPI0w_1.3inchLCD_UPS
+# rpi0w-1.3inchLCD-UPS
 树莓派zero w，ip、电量等信息的显示
 
 ## 硬件
@@ -36,7 +36,7 @@ sudo reboot
 
 ```bash
 # 拉取源码
-git clone https://github.com/skb666/RPI0w_1.3inchLCD_UPS.git
+git clone https://github.com/skb666/rpi0w-1.3inchLCD-UPS.git
 # 运行
 cd ./RPI0w_1.3inchLCD_UP
 python main.py
