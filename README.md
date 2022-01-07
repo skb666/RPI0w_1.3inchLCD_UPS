@@ -5,7 +5,7 @@
 
 1. 树莓派zero w
 2. [微雪 1.3inch LCD HAT]( https://m.tb.cn/h.f95NlCv?sm=097b4a)
-3. [UPS_Lite 充电电源](https://m.tb.cn/h.f95nLU3?sm=a5f185) ( 将背面左下角两个焊盘短接，具体操作参考 [UPS-Lite V1.2 使用说明.pdf]([UPS-Lite/UPS-Lite V1.2 使用说明.pdf at master · linshuqin329/UPS-Lite (github.com)](https://github.com/linshuqin329/UPS-Lite/blob/master/UPS-Lite V1.2 使用说明.pdf)) )
+3. [UPS_Lite 充电电源](https://m.tb.cn/h.f95nLU3?sm=a5f185) ( 将背面左下角两个焊盘短接，具体操作参考 [UPS-Lite V1.2 使用说明.pdf](https://github.com/linshuqin329/UPS-Lite/blob/master/UPS-Lite%20V1.2%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf) )
 4. ( 可选 ) [ETH/USB HUB HA 拓展板](https://m.tb.cn/h.fQf3g4H?sm=8723cf)
 
 ![组装](./images/组装.png)
